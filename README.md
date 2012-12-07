@@ -76,3 +76,7 @@ Move the GeoJSON files into the geojson directory
     topojson --properties 'NAME10','STUSPS10' --id-property GEOID10 --out ./topojson/state.json ./geojson/state.json
     topojson --properties 'NAME10','NAMELSAD10' --id-property GEOID10 --out ./topojson/county.json ./geojson/county.json
     topojson --properties 'ZCTA5CE10' --id-property GEOID10 --out ./topojson/zcta5.json ./geojson/zcta5.json
+
+## Reference files
+
+The `reference` directory has lookup files to get names for each of the IDs, as well as getting parent information (e.g. which state is a HRR in).

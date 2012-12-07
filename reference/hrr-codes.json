@@ -1,0 +1,1532 @@
+{
+    "1": {
+        "name": "Birmingham HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "10": {
+        "name": "Anchorage HRR (AK)", 
+        "stateAbbr": "AK", 
+        "stateId": "02"
+    }, 
+    "101": {
+        "name": "Boulder HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "102": {
+        "name": "Colorado Springs HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "103": {
+        "name": "Denver HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "104": {
+        "name": "Fort Collins HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "105": {
+        "name": "Grand Junction HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "106": {
+        "name": "Greeley HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "107": {
+        "name": "Pueblo HRR (CO)", 
+        "stateAbbr": "CO", 
+        "stateId": "08"
+    }, 
+    "109": {
+        "name": "Bridgeport HRR (CT)", 
+        "stateAbbr": "CT", 
+        "stateId": "09"
+    }, 
+    "11": {
+        "name": "Mesa HRR (AZ)", 
+        "stateAbbr": "AZ", 
+        "stateId": "04"
+    }, 
+    "110": {
+        "name": "Hartford HRR (CT)", 
+        "stateAbbr": "CT", 
+        "stateId": "09"
+    }, 
+    "111": {
+        "name": "New Haven HRR (CT)", 
+        "stateAbbr": "CT", 
+        "stateId": "09"
+    }, 
+    "112": {
+        "name": "Wilmington HRR (DE)", 
+        "stateAbbr": "DE", 
+        "stateId": "10"
+    }, 
+    "113": {
+        "name": "Washington HRR (DC)", 
+        "stateAbbr": "DC", 
+        "stateId": "11"
+    }, 
+    "115": {
+        "name": "Bradenton HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "116": {
+        "name": "Clearwater HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "118": {
+        "name": "Fort Lauderdale HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "119": {
+        "name": "Fort Myers HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "12": {
+        "name": "Phoenix HRR (AZ)", 
+        "stateAbbr": "AZ", 
+        "stateId": "04"
+    }, 
+    "120": {
+        "name": "Gainesville HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "122": {
+        "name": "Hudson HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "123": {
+        "name": "Jacksonville HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "124": {
+        "name": "Lakeland HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "127": {
+        "name": "Miami HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "129": {
+        "name": "Ocala HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "130": {
+        "name": "Orlando HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "131": {
+        "name": "Ormond Beach HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "133": {
+        "name": "Panama City HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "134": {
+        "name": "Pensacola HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "137": {
+        "name": "Sarasota HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "139": {
+        "name": "St Petersburg HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "14": {
+        "name": "Sun City HRR (AZ)", 
+        "stateAbbr": "AZ", 
+        "stateId": "04"
+    }, 
+    "140": {
+        "name": "Tallahassee HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "141": {
+        "name": "Tampa HRR (FL)", 
+        "stateAbbr": "FL", 
+        "stateId": "12"
+    }, 
+    "142": {
+        "name": "Albany HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "144": {
+        "name": "Atlanta HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "145": {
+        "name": "Augusta HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "146": {
+        "name": "Columbus HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "147": {
+        "name": "Macon HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "148": {
+        "name": "Rome HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "149": {
+        "name": "Savannah HRR (GA)", 
+        "stateAbbr": "GA", 
+        "stateId": "13"
+    }, 
+    "15": {
+        "name": "Tucson HRR (AZ)", 
+        "stateAbbr": "AZ", 
+        "stateId": "04"
+    }, 
+    "150": {
+        "name": "Honolulu HRR (HI)", 
+        "stateAbbr": "HI", 
+        "stateId": "15"
+    }, 
+    "151": {
+        "name": "Boise HRR (ID)", 
+        "stateAbbr": "ID", 
+        "stateId": "16"
+    }, 
+    "152": {
+        "name": "Idaho Falls HRR (ID)", 
+        "stateAbbr": "ID", 
+        "stateId": "16"
+    }, 
+    "154": {
+        "name": "Aurora HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "155": {
+        "name": "Blue Island HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "156": {
+        "name": "Chicago HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "158": {
+        "name": "Elgin HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "16": {
+        "name": "Fort Smith HRR (AR)", 
+        "stateAbbr": "AR", 
+        "stateId": "05"
+    }, 
+    "161": {
+        "name": "Evanston HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "163": {
+        "name": "Hinsdale HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "164": {
+        "name": "Joliet HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "166": {
+        "name": "Melrose Park HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "170": {
+        "name": "Peoria HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "171": {
+        "name": "Rockford HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "172": {
+        "name": "Springfield HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "173": {
+        "name": "Urbana HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "175": {
+        "name": "Bloomington HRR (IL)", 
+        "stateAbbr": "IL", 
+        "stateId": "17"
+    }, 
+    "179": {
+        "name": "Evansville HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "18": {
+        "name": "Jonesboro HRR (AR)", 
+        "stateAbbr": "AR", 
+        "stateId": "05"
+    }, 
+    "180": {
+        "name": "Fort Wayne HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "181": {
+        "name": "Gary HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "183": {
+        "name": "Indianapolis HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "184": {
+        "name": "Lafayette HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "185": {
+        "name": "Muncie HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "186": {
+        "name": "Munster HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "187": {
+        "name": "South Bend HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "188": {
+        "name": "Terre Haute HRR (IN)", 
+        "stateAbbr": "IN", 
+        "stateId": "18"
+    }, 
+    "19": {
+        "name": "Little Rock HRR (AR)", 
+        "stateAbbr": "AR", 
+        "stateId": "05"
+    }, 
+    "190": {
+        "name": "Cedar Rapids HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "191": {
+        "name": "Davenport HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "192": {
+        "name": "Des Moines HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "193": {
+        "name": "Dubuque HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "194": {
+        "name": "Iowa City HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "195": {
+        "name": "Mason City HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "196": {
+        "name": "Sioux City HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "197": {
+        "name": "Waterloo HRR (IA)", 
+        "stateAbbr": "IA", 
+        "stateId": "19"
+    }, 
+    "2": {
+        "name": "Dothan HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "200": {
+        "name": "Topeka HRR (KS)", 
+        "stateAbbr": "KS", 
+        "stateId": "20"
+    }, 
+    "201": {
+        "name": "Wichita HRR (KS)", 
+        "stateAbbr": "KS", 
+        "stateId": "20"
+    }, 
+    "203": {
+        "name": "Covington HRR (KY)", 
+        "stateAbbr": "KY", 
+        "stateId": "21"
+    }, 
+    "204": {
+        "name": "Lexington HRR (KY)", 
+        "stateAbbr": "KY", 
+        "stateId": "21"
+    }, 
+    "205": {
+        "name": "Louisville HRR (KY)", 
+        "stateAbbr": "KY", 
+        "stateId": "21"
+    }, 
+    "207": {
+        "name": "Owensboro HRR (KY)", 
+        "stateAbbr": "KY", 
+        "stateId": "21"
+    }, 
+    "208": {
+        "name": "Paducah HRR (KY)", 
+        "stateAbbr": "KY", 
+        "stateId": "21"
+    }, 
+    "209": {
+        "name": "Alexandria HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "21": {
+        "name": "Springdale HRR (AR)", 
+        "stateAbbr": "AR", 
+        "stateId": "05"
+    }, 
+    "210": {
+        "name": "Baton Rouge HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "212": {
+        "name": "Houma HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "213": {
+        "name": "Lafayette HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "214": {
+        "name": "Lake Charles HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "216": {
+        "name": "Metairie HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "217": {
+        "name": "Monroe HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "218": {
+        "name": "New Orleans HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "219": {
+        "name": "Shreveport HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "22": {
+        "name": "Texarkana HRR (AR)", 
+        "stateAbbr": "AR", 
+        "stateId": "05"
+    }, 
+    "220": {
+        "name": "Slidell HRR (LA)", 
+        "stateAbbr": "LA", 
+        "stateId": "22"
+    }, 
+    "221": {
+        "name": "Bangor HRR (ME)", 
+        "stateAbbr": "ME", 
+        "stateId": "23"
+    }, 
+    "222": {
+        "name": "Portland HRR (ME)", 
+        "stateAbbr": "ME", 
+        "stateId": "23"
+    }, 
+    "223": {
+        "name": "Baltimore HRR (MD)", 
+        "stateAbbr": "MD", 
+        "stateId": "24"
+    }, 
+    "225": {
+        "name": "Salisbury HRR (MD)", 
+        "stateAbbr": "MD", 
+        "stateId": "24"
+    }, 
+    "226": {
+        "name": "Takoma Park HRR (MD)", 
+        "stateAbbr": "MD", 
+        "stateId": "24"
+    }, 
+    "227": {
+        "name": "Boston HRR (MA)", 
+        "stateAbbr": "MA", 
+        "stateId": "25"
+    }, 
+    "23": {
+        "name": "Orange Co. HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "230": {
+        "name": "Springfield HRR (MA)", 
+        "stateAbbr": "MA", 
+        "stateId": "25"
+    }, 
+    "231": {
+        "name": "Worcester HRR (MA)", 
+        "stateAbbr": "MA", 
+        "stateId": "25"
+    }, 
+    "232": {
+        "name": "Ann Arbor HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "233": {
+        "name": "Dearborn HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "234": {
+        "name": "Detroit HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "235": {
+        "name": "Flint HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "236": {
+        "name": "Grand Rapids HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "238": {
+        "name": "Kalamazoo HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "239": {
+        "name": "Lansing HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "240": {
+        "name": "Marquette HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "242": {
+        "name": "Muskegon HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "243": {
+        "name": "Petoskey HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "244": {
+        "name": "Pontiac HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "245": {
+        "name": "Royal Oak HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "246": {
+        "name": "Saginaw HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "248": {
+        "name": "St Joseph HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "249": {
+        "name": "Traverse City HRR (MI)", 
+        "stateAbbr": "MI", 
+        "stateId": "26"
+    }, 
+    "25": {
+        "name": "Bakersfield HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "250": {
+        "name": "Duluth HRR (MN)", 
+        "stateAbbr": "MN", 
+        "stateId": "27"
+    }, 
+    "251": {
+        "name": "Minneapolis HRR (MN)", 
+        "stateAbbr": "MN", 
+        "stateId": "27"
+    }, 
+    "253": {
+        "name": "Rochester HRR (MN)", 
+        "stateAbbr": "MN", 
+        "stateId": "27"
+    }, 
+    "254": {
+        "name": "St Cloud HRR (MN)", 
+        "stateAbbr": "MN", 
+        "stateId": "27"
+    }, 
+    "256": {
+        "name": "St Paul HRR (MN)", 
+        "stateAbbr": "MN", 
+        "stateId": "27"
+    }, 
+    "257": {
+        "name": "Gulfport HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "258": {
+        "name": "Hattiesburg HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "259": {
+        "name": "Jackson HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "260": {
+        "name": "Meridian HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "261": {
+        "name": "Oxford HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "262": {
+        "name": "Tupelo HRR (MS)", 
+        "stateAbbr": "MS", 
+        "stateId": "28"
+    }, 
+    "263": {
+        "name": "Cape Girardeau HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "264": {
+        "name": "Columbia HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "267": {
+        "name": "Joplin HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "268": {
+        "name": "Kansas City HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "270": {
+        "name": "Springfield HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "273": {
+        "name": "St Louis HRR (MO)", 
+        "stateAbbr": "MO", 
+        "stateId": "29"
+    }, 
+    "274": {
+        "name": "Billings HRR (MT)", 
+        "stateAbbr": "MT", 
+        "stateId": "30"
+    }, 
+    "275": {
+        "name": "Great Falls HRR (MT)", 
+        "stateAbbr": "MT", 
+        "stateId": "30"
+    }, 
+    "276": {
+        "name": "Missoula HRR (MT)", 
+        "stateAbbr": "MT", 
+        "stateId": "30"
+    }, 
+    "277": {
+        "name": "Lincoln HRR (NE)", 
+        "stateAbbr": "NE", 
+        "stateId": "31"
+    }, 
+    "278": {
+        "name": "Omaha HRR (NE)", 
+        "stateAbbr": "NE", 
+        "stateId": "31"
+    }, 
+    "279": {
+        "name": "Las Vegas HRR (NV)", 
+        "stateAbbr": "NV", 
+        "stateId": "32"
+    }, 
+    "280": {
+        "name": "Reno HRR (NV)", 
+        "stateAbbr": "NV", 
+        "stateId": "32"
+    }, 
+    "281": {
+        "name": "Lebanon HRR (NH)", 
+        "stateAbbr": "NH", 
+        "stateId": "33"
+    }, 
+    "282": {
+        "name": "Manchester HRR (NH)", 
+        "stateAbbr": "NH", 
+        "stateId": "33"
+    }, 
+    "283": {
+        "name": "Camden HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "284": {
+        "name": "Hackensack HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "285": {
+        "name": "Morristown HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "288": {
+        "name": "New Brunswick HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "289": {
+        "name": "Newark HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "291": {
+        "name": "Paterson HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "292": {
+        "name": "Ridgewood HRR (NJ)", 
+        "stateAbbr": "NJ", 
+        "stateId": "34"
+    }, 
+    "293": {
+        "name": "Albuquerque HRR (NM)", 
+        "stateAbbr": "NM", 
+        "stateId": "35"
+    }, 
+    "295": {
+        "name": "Albany HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "296": {
+        "name": "Binghamton HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "297": {
+        "name": "Bronx HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "299": {
+        "name": "Buffalo HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "300": {
+        "name": "Elmira HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "301": {
+        "name": "East long island HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "303": {
+        "name": "New York HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "304": {
+        "name": "Rochester HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "307": {
+        "name": "Syracuse HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "308": {
+        "name": "White Plains HRR (NY)", 
+        "stateAbbr": "NY", 
+        "stateId": "36"
+    }, 
+    "309": {
+        "name": "Asheville HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "31": {
+        "name": "Chico HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "311": {
+        "name": "Charlotte HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "312": {
+        "name": "Durham HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "313": {
+        "name": "Greensboro HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "314": {
+        "name": "Greenville HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "315": {
+        "name": "Hickory HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "318": {
+        "name": "Raleigh HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "319": {
+        "name": "Wilmington HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "320": {
+        "name": "Winston-Salem HRR (NC)", 
+        "stateAbbr": "NC", 
+        "stateId": "37"
+    }, 
+    "321": {
+        "name": "Bismarck HRR (ND)", 
+        "stateAbbr": "ND", 
+        "stateId": "38"
+    }, 
+    "322": {
+        "name": "Fargo Moorhead-MN HRR (ND)", 
+        "stateAbbr": "ND", 
+        "stateId": "38"
+    }, 
+    "323": {
+        "name": "Grand Forks HRR (ND)", 
+        "stateAbbr": "ND", 
+        "stateId": "38"
+    }, 
+    "324": {
+        "name": "Minot HRR (ND)", 
+        "stateAbbr": "ND", 
+        "stateId": "38"
+    }, 
+    "325": {
+        "name": "Akron HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "326": {
+        "name": "Canton HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "327": {
+        "name": "Cincinnati HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "328": {
+        "name": "Cleveland HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "329": {
+        "name": "Columbus HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "33": {
+        "name": "Contra Costa Co. HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "330": {
+        "name": "Dayton HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "331": {
+        "name": "Elyria HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "332": {
+        "name": "Kettering HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "334": {
+        "name": "Toledo HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "335": {
+        "name": "Youngstown HRR (OH)", 
+        "stateAbbr": "OH", 
+        "stateId": "39"
+    }, 
+    "336": {
+        "name": "Lawton HRR (OK)", 
+        "stateAbbr": "OK", 
+        "stateId": "40"
+    }, 
+    "339": {
+        "name": "Oklahoma City HRR (OK)", 
+        "stateAbbr": "OK", 
+        "stateId": "40"
+    }, 
+    "340": {
+        "name": "Tulsa HRR (OK)", 
+        "stateAbbr": "OK", 
+        "stateId": "40"
+    }, 
+    "341": {
+        "name": "Bend HRR (OR)", 
+        "stateAbbr": "OR", 
+        "stateId": "41"
+    }, 
+    "342": {
+        "name": "Eugene HRR (OR)", 
+        "stateAbbr": "OR", 
+        "stateId": "41"
+    }, 
+    "343": {
+        "name": "Medford HRR (OR)", 
+        "stateAbbr": "OR", 
+        "stateId": "41"
+    }, 
+    "344": {
+        "name": "Portland HRR (OR)", 
+        "stateAbbr": "OR", 
+        "stateId": "41"
+    }, 
+    "345": {
+        "name": "Salem HRR (OR)", 
+        "stateAbbr": "OR", 
+        "stateId": "41"
+    }, 
+    "346": {
+        "name": "Allentown HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "347": {
+        "name": "Altoona HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "350": {
+        "name": "Danville HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "351": {
+        "name": "Erie HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "352": {
+        "name": "Harrisburg HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "354": {
+        "name": "Johnstown HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "355": {
+        "name": "Lancaster HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "356": {
+        "name": "Philadelphia HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "357": {
+        "name": "Pittsburgh HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "358": {
+        "name": "Reading HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "359": {
+        "name": "Sayre HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "360": {
+        "name": "Scranton HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "362": {
+        "name": "Wilkes-Barre HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "363": {
+        "name": "York HRR (PA)", 
+        "stateAbbr": "PA", 
+        "stateId": "42"
+    }, 
+    "364": {
+        "name": "Providence HRR (RI)", 
+        "stateAbbr": "RI", 
+        "stateId": "44"
+    }, 
+    "365": {
+        "name": "Charleston HRR (SC)", 
+        "stateAbbr": "SC", 
+        "stateId": "45"
+    }, 
+    "366": {
+        "name": "Columbia HRR (SC)", 
+        "stateAbbr": "SC", 
+        "stateId": "45"
+    }, 
+    "367": {
+        "name": "Florence HRR (SC)", 
+        "stateAbbr": "SC", 
+        "stateId": "45"
+    }, 
+    "368": {
+        "name": "Greenville HRR (SC)", 
+        "stateAbbr": "SC", 
+        "stateId": "45"
+    }, 
+    "369": {
+        "name": "Spartanburg HRR (SC)", 
+        "stateAbbr": "SC", 
+        "stateId": "45"
+    }, 
+    "370": {
+        "name": "Rapid City HRR (SD)", 
+        "stateAbbr": "SD", 
+        "stateId": "46"
+    }, 
+    "371": {
+        "name": "Sioux Falls HRR (SD)", 
+        "stateAbbr": "SD", 
+        "stateId": "46"
+    }, 
+    "373": {
+        "name": "Chattanooga HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "374": {
+        "name": "Jackson HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "375": {
+        "name": "Johnson City HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "376": {
+        "name": "Kingsport HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "377": {
+        "name": "Knoxville HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "379": {
+        "name": "Memphis HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "380": {
+        "name": "Nashville HRR (TN)", 
+        "stateAbbr": "TN", 
+        "stateId": "47"
+    }, 
+    "382": {
+        "name": "Abilene HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "383": {
+        "name": "Amarillo HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "385": {
+        "name": "Austin HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "386": {
+        "name": "Beaumont HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "388": {
+        "name": "Bryan HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "390": {
+        "name": "Corpus Christi HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "391": {
+        "name": "Dallas HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "393": {
+        "name": "El Paso HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "394": {
+        "name": "Fort Worth HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "396": {
+        "name": "Harlingen HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "397": {
+        "name": "Houston HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "399": {
+        "name": "Longview HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "400": {
+        "name": "Lubbock HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "402": {
+        "name": "Mcallen HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "406": {
+        "name": "Odessa HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "411": {
+        "name": "San Angelo HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "412": {
+        "name": "San Antonio HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "413": {
+        "name": "Temple HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "416": {
+        "name": "Tyler HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "417": {
+        "name": "Victoria HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "418": {
+        "name": "Waco HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "420": {
+        "name": "Wichita Falls HRR (TX)", 
+        "stateAbbr": "TX", 
+        "stateId": "48"
+    }, 
+    "421": {
+        "name": "Ogden HRR (UT)", 
+        "stateAbbr": "UT", 
+        "stateId": "49"
+    }, 
+    "422": {
+        "name": "Provo HRR (UT)", 
+        "stateAbbr": "UT", 
+        "stateId": "49"
+    }, 
+    "423": {
+        "name": "Salt lake city HRR (UT)", 
+        "stateAbbr": "UT", 
+        "stateId": "49"
+    }, 
+    "424": {
+        "name": "Burlington HRR (VT)", 
+        "stateAbbr": "VT", 
+        "stateId": "50"
+    }, 
+    "426": {
+        "name": "Arlington HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "427": {
+        "name": "Charlottesville HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "428": {
+        "name": "Lynchburg HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "429": {
+        "name": "Newport News HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "43": {
+        "name": "Fresno HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "430": {
+        "name": "Norfolk HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "431": {
+        "name": "Richmond HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "432": {
+        "name": "Roanoke HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "435": {
+        "name": "Winchester HRR (VA)", 
+        "stateAbbr": "VA", 
+        "stateId": "51"
+    }, 
+    "437": {
+        "name": "Everett HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "438": {
+        "name": "Olympia HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "439": {
+        "name": "Seattle HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "440": {
+        "name": "Spokane HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "441": {
+        "name": "Tacoma HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "442": {
+        "name": "Yakima HRR (WA)", 
+        "stateAbbr": "WA", 
+        "stateId": "53"
+    }, 
+    "443": {
+        "name": "Charleston HRR (WV)", 
+        "stateAbbr": "WV", 
+        "stateId": "54"
+    }, 
+    "444": {
+        "name": "Huntington HRR (WV)", 
+        "stateAbbr": "WV", 
+        "stateId": "54"
+    }, 
+    "445": {
+        "name": "Morgantown HRR (WV)", 
+        "stateAbbr": "WV", 
+        "stateId": "54"
+    }, 
+    "446": {
+        "name": "Appleton HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "447": {
+        "name": "Green Bay HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "448": {
+        "name": "La Crosse HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "449": {
+        "name": "Madison HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "450": {
+        "name": "Marshfield HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "451": {
+        "name": "Milwaukee HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "452": {
+        "name": "Neenah HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "456": {
+        "name": "Wausau HRR (WI)", 
+        "stateAbbr": "WI", 
+        "stateId": "55"
+    }, 
+    "457": {
+        "name": "Casper HRR (WY)", 
+        "stateAbbr": "WY", 
+        "stateId": "56"
+    }, 
+    "5": {
+        "name": "Huntsville HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "56": {
+        "name": "Los Angeles HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "58": {
+        "name": "Modesto HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "6": {
+        "name": "Mobile HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "62": {
+        "name": "Napa HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "65": {
+        "name": "Alameda Co. HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "69": {
+        "name": "Palm Spr.\\/Rancho Mir. HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "7": {
+        "name": "Montgomery HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "73": {
+        "name": "Redding HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "77": {
+        "name": "Sacramento HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "78": {
+        "name": "Salinas HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "79": {
+        "name": "San Bernardino HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "80": {
+        "name": "San Diego HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "81": {
+        "name": "San Francisco HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "82": {
+        "name": "San Jose HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "83": {
+        "name": "San luis obispo HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "85": {
+        "name": "San Mateo Co. HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "86": {
+        "name": "Santa Barbara HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "87": {
+        "name": "Santa Cruz HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "89": {
+        "name": "Santa Rosa HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "9": {
+        "name": "Tuscaloosa HRR (AL)", 
+        "stateAbbr": "AL", 
+        "stateId": "01"
+    }, 
+    "91": {
+        "name": "Stockton HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }, 
+    "96": {
+        "name": "Ventura HRR (CA)", 
+        "stateAbbr": "CA", 
+        "stateId": "06"
+    }
+}
