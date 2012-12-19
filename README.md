@@ -75,7 +75,17 @@ Move the GeoJSON files into the geojson directory
     topojson --properties HSANAME --id-property HSA93 --out ./topojson/hsa.json ./geojson/hsa.json
     topojson --properties NAME10 --properties STUSPS10 --id-property GEOID10 --out ./topojson/state.json ./geojson/state.json
     topojson --properties NAME10 --properties NAMELSAD10 --id-property GEOID10 --out ./topojson/county.json ./geojson/county.json
-    topojson --properties 'ZCTA5CE10' --id-property GEOID10 --out ./topojson/zcta5.json ./geojson/zcta5.json
+    topojson --id-property GEOID10 --out ./topojson/zcta5.json ./geojson/zcta5.json
+
+## Unify and simplify
+
+I wanted some of these files combined into a single TopoJSON, and simplified somewhat to make the size of the map smaller. To do so, the following command was used:
+
+    topojson --out ./topojson-simplified/us.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
+    topojson -s 1 --out ./topojson-simplified/us-s1.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
+    topojson -s 3 --out ./topojson-simplified/us-s3.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
+
+A simplification threshold of `3` retained 150581 / 549117 points (27%), while a level of `1` retained 231768 / 549117 points (42%).
 
 ## Reference files
 
