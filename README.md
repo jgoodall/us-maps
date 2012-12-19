@@ -71,10 +71,10 @@ Move the GeoJSON files into the geojson directory
 [TopoJSON](https://github.com/mbostock/topojson) is an extension to GeoJSON that encodes toplogy, resulting in much smaller files. [Nodejs](http://nodejs.org/) is required to run the script. Install topojson using `npm install topojson -g`. No simplification is done on these files. None of the files are combined either, although that is possible. ZCTA file fails when trying to use topojson to convert.
 
     mkdir -p topojson
-    topojson --properties 'HRRCITY' --id-property HRRNUM --out ./topojson/hrr.json ./geojson/hrr.json
-    topojson --properties 'HSANAME' --id-property HSA93 --out ./topojson/hsa.json ./geojson/hsa.json
-    topojson --properties 'NAME10','STUSPS10' --id-property GEOID10 --out ./topojson/state.json ./geojson/state.json
-    topojson --properties 'NAME10','NAMELSAD10' --id-property GEOID10 --out ./topojson/county.json ./geojson/county.json
+    topojson --properties HRRCITY --id-property HRRNUM --out ./topojson/hrr.json ./geojson/hrr.json
+    topojson --properties HSANAME --id-property HSA93 --out ./topojson/hsa.json ./geojson/hsa.json
+    topojson --properties NAME10 --properties STUSPS10 --id-property GEOID10 --out ./topojson/state.json ./geojson/state.json
+    topojson --properties NAME10 --properties NAMELSAD10 --id-property GEOID10 --out ./topojson/county.json ./geojson/county.json
     topojson --properties 'ZCTA5CE10' --id-property GEOID10 --out ./topojson/zcta5.json ./geojson/zcta5.json
 
 ## Reference files
