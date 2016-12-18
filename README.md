@@ -34,7 +34,12 @@ Then unzip the files:
 Then unzip the files:
 
     mkdir -p raw/zcta5 && cd raw/zcta5 && unzip ~/Downloads/tl_2010_us_zcta510.zip && cd ../..
-    
+
+#### Zip Code Tabulated Areas (ZCTA)
+* Open a browser to: http://udsmapper.org/zcta-crosswalk.cfm
+* Click the link named `ZIP Code to ZCTA Crosswalk` to download the 2016 mappings of zip codes to ZCTA's.
+* That file is an Excel Spreadsheet, which can be exported to a CSV format, as done in this repo.
+
 ### Medicare
 
 Medicare files can be downloaded directly from [Dartmouth Atlas](http://www.dartmouthatlas.org/)
