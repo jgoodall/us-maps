@@ -3,7 +3,7 @@
 The maps here were created using the following steps.
 
 ## Get raw shape files
- 
+
 ### Census
 Census files have to be downloaded from a browser. This assumes they are downloaded to ~/Downloads. [us-state/zip/county](http://www.census.gov/cgi-bin/geo/shapefiles2010/main) Available: http://www.census.gov/cgi-bin/geo/shapefiles2010/main
 
@@ -15,7 +15,7 @@ Census files have to be downloaded from a browser. This assumes they are downloa
 Then unzip the files:
 
     mkdir -p raw/state && cd raw/state && unzip ~/Downloads/tl_2010_us_state10.zip && cd ../..
-    
+
 #### Counties
 * Open a browser to: https://www.census.gov/cgi-bin/geo/shapefiles2010/main
 * Choose 'Counties (and equivalent)' and 'Submit'
@@ -49,7 +49,7 @@ Medicare files can be downloaded directly from [Dartmouth Atlas](http://www.dart
 
     curl -O http://www.dartmouthatlas.org/downloads/geography/hrr_bdry.zip
     mkdir -p raw/hrr && cd raw/hrr && unzip ../../hrr_bdry.zip && cd ../..
-    
+
 #### Hospital Service Area
 
     curl -O http://www.dartmouthatlas.org/downloads/geography/hsa_bdry.zip
@@ -66,11 +66,11 @@ Convert using [gdal](http://www.gdal.org/). On a Mac, you can install gdal with 
     ogr2ogr -f "GeoJSON" state.json ./raw/state/tl_2010_us_state10.shp tl_2010_us_state10
     ogr2ogr -f "GeoJSON" county.json ./raw/county/tl_2010_us_county10.shp tl_2010_us_county10
     ogr2ogr -f "GeoJSON" zcta5.json ./raw/zcta5/tl_2010_us_zcta510.shp tl_2010_us_zcta510
-    
+
 Move the GeoJSON files into the geojson directory
 
     mkdir -p geojson && mv *.json geojson
-    
+
 ## Convert to TopoJSON
 
 [TopoJSON](https://github.com/mbostock/topojson) is an extension to GeoJSON that encodes toplogy, resulting in much smaller files. [Nodejs](http://nodejs.org/) is required to run the script. Install topojson using `npm install topojson -g`. No simplification is done on these files. None of the files are combined either, although that is possible. ZCTA file fails when trying to use topojson to convert.
