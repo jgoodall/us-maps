@@ -61,34 +61,34 @@ Clean up .zip files as needed.
 
 Convert using [gdal](http://www.gdal.org/). On a Mac, you can install gdal with [homebrew](http://mxcl.github.com/homebrew/): `brew install gdal`.
 
-    ogr2ogr -f "GeoJSON" hsa.json ./raw/hsa/HSA_Bdry.SHP HSA_Bdry
-    ogr2ogr -f "GeoJSON" hrr.json ./raw/hrr/HRR_Bdry.SHP HRR_Bdry
-    ogr2ogr -f "GeoJSON" state.json ./raw/state/tl_2010_us_state10.shp tl_2010_us_state10
-    ogr2ogr -f "GeoJSON" county.json ./raw/county/tl_2010_us_county10.shp tl_2010_us_county10
-    ogr2ogr -f "GeoJSON" zcta5.json ./raw/zcta5/tl_2010_us_zcta510.shp tl_2010_us_zcta510
+    ogr2ogr -f "GeoJSON" hsa.geo.json ./raw/hsa/HSA_Bdry.SHP HSA_Bdry
+    ogr2ogr -f "GeoJSON" hrr.geo.json ./raw/hrr/HRR_Bdry.SHP HRR_Bdry
+    ogr2ogr -f "GeoJSON" state.geo.json ./raw/state/tl_2010_us_state10.shp tl_2010_us_state10
+    ogr2ogr -f "GeoJSON" county.geo.json ./raw/county/tl_2010_us_county10.shp tl_2010_us_county10
+    ogr2ogr -f "GeoJSON" zcta5.geo.json ./raw/zcta5/tl_2010_us_zcta510.shp tl_2010_us_zcta510
 
 Move the GeoJSON files into the geojson directory
 
-    mkdir -p geojson && mv *.json geojson
+    mkdir -p geojson && mv *.geo.json geojson
 
 ## Convert to TopoJSON
 
 [TopoJSON](https://github.com/mbostock/topojson) is an extension to GeoJSON that encodes toplogy, resulting in much smaller files. [Nodejs](http://nodejs.org/) is required to run the script. Install topojson using `npm install topojson -g`. No simplification is done on these files. None of the files are combined either, although that is possible. ZCTA file fails when trying to use topojson to convert.
 
     mkdir -p topojson
-    topojson --properties HRRCITY --id-property HRRNUM --out ./topojson/hrr.json ./geojson/hrr.json
-    topojson --properties HSANAME --id-property HSA93 --out ./topojson/hsa.json ./geojson/hsa.json
-    topojson --properties NAME10 --properties STUSPS10 --id-property GEOID10 --out ./topojson/state.json ./geojson/state.json
-    topojson --properties NAME10 --properties NAMELSAD10 --id-property GEOID10 --out ./topojson/county.json ./geojson/county.json
-    topojson --id-property GEOID10 --out ./topojson/zcta5.json ./geojson/zcta5.json
+    topojson --properties HRRCITY --id-property HRRNUM --out ./topojson/hrr.topo.json ./geojson/hrr.geo.json
+    topojson --properties HSANAME --id-property HSA93 --out ./topojson/hsa.topo.json ./geojson/hsa.geo.json
+    topojson --properties NAME10 --properties STUSPS10 --id-property GEOID10 --out ./topojson/state.topo.json ./geojson/state.geo.json
+    topojson --properties NAME10 --properties NAMELSAD10 --id-property GEOID10 --out ./topojson/county.topo.json ./geojson/county.geo.json
+    topojson --id-property GEOID10 --out ./topojson/zcta5.topo.json ./geojson/zcta5.geo.json
 
 ## Unify and simplify
 
 I wanted some of these files combined into a single TopoJSON, and simplified somewhat to make the size of the map smaller. To do so, the following command was used:
 
-    topojson --out ./topojson-simplified/us.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
-    topojson -s 1 --out ./topojson-simplified/us-s1.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
-    topojson -s 3 --out ./topojson-simplified/us-s3.json ./topojson/state.json ./topojson/hrr.json ./topojson/county.json
+    topojson --out ./topojson-simplified/us.topo.json ./topojson/state.topo.json ./topojson/hrr.topo.json ./topojson/county.topo.json
+    topojson -s 1 --out ./topojson-simplified/us-s1.topo.json ./topojson/state.topo.json ./topojson/hrr.topo.json ./topojson/county.topo.json
+    topojson -s 3 --out ./topojson-simplified/us-s3.topo.json ./topojson/state.topo.json ./topojson/hrr.topo.json ./topojson/county.topo.json
 
 A simplification threshold of `3` retained 150581 / 549117 points (27%), while a level of `1` retained 231768 / 549117 points (42%).
 
